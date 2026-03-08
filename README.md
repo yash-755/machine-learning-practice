@@ -1,2 +1,9 @@
-# machine-learning-practice
-My Machine Learning practice notebooks including NumPy, Pandas, Matplotlib, Scikit-learn and ML concepts.
+# Machine Learning Practice
+
+This repository contains my machine learning practice notebooks.
+
+Topics covered:
+- NumPy
+- Pandas
+- Data Visualization
+- Machine Learning Basics
